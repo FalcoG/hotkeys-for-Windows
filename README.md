@@ -12,7 +12,7 @@
 ## Usage
 1. Install [AutoHotKey](https://autohotkey.com/)
 2. Clone this repository
-3. Run ``index.js`` as administrator
+3. Run ``index.ahk`` as administrator
 4. Enjoy the new hotkeys!
 
 ## Supported hotkeys
