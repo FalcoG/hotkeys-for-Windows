@@ -16,6 +16,15 @@
 4. Enjoy the new hotkeys!
 
 ## Supported hotkeys
+
+| Symbol | Key |
+| ------ | --- |
+| ⌘ | Command |
+| ⌥ | Option |
+| ⇧ | Shift |
+| ⬅ | Left arrow |
+| ⮕ | Right arrow |
+
 ### Operation System
 
 | Combination | Performed action |
@@ -54,8 +63,10 @@
 | <kbd>⌘</kbd> <kbd>9</kbd> | Activate the last tab |
 
 ### Spectacle
-This script will attempt provide the same functionality as [Spectacle for macOS](https://www.spectacleapp.com/).
+This script will attempt to provide the same functionality as [Spectacle for macOS](https://www.spectacleapp.com/).
 
 | Combination | Performed action |
 | ------------- |-------------|
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>F</kbd> | Maximize the active window |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>⬅</kbd> | Move to the left half |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>⮕</kbd> | Move to the right half |
